@@ -1,0 +1,5 @@
+template-file-path: cfn.yaml
+
+tags:
+  app: gitsync-poc
+  Owner: athavan@wso2.com
